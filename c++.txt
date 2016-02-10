@@ -1,0 +1,10 @@
+Q: What is the full form of OOPS?
+A: Object Oriented Programming System.
+
+Q: What is a class?
+A: A reflection of entities' attributes and actions.
+
+Q: What is an object?
+A: An instance of the class.
+
+Q: 
